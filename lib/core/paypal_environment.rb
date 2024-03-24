@@ -3,8 +3,8 @@ require "base64"
 
 module PayPal
 
-  SANDBOXAPI = 'https://api.sandbox.paypal.com'
-  LIVEAPI = 'https://api.paypal.com'
+  SANDBOXAPI = 'https://api-m.sandbox.paypal.com'
+  LIVEAPI = 'https://api-m.paypal.com'
   SANDBOXWEB = 'https://sandbox.paypal.com'
   LIVEWEB = 'https://paypal.com'
 
